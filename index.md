@@ -1,3 +1,3 @@
-[ナビ](ナビ/index.md)
+[ナビ](ナビ/index.md)  
 
-[head](head/index.md)
+[head](head/index.md)  
