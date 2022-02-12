@@ -1,4 +1,4 @@
-![レイアウトの画像](layout.png)  
+![レイアウトの画像](img/layout.png)  
 
 フレックス  
 [フロート](フロート/index.md)  
