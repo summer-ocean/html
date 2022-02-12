@@ -3,4 +3,4 @@
 [head](head/index.md)  
 [a](a/index.md)  
 
-[リスト](リスト.md)  
+[リスト](リスト/index.md)  
