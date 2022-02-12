@@ -1,4 +1,5 @@
 [ナビ](ナビ/index.md)  
+[テキスト]テキスト/index.md)  
 
 [\<head>](head/index.md)  
 [\<a>](a/index.md)  
