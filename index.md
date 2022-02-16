@@ -9,6 +9,7 @@
 [画像](画像/index.md)  
 [枠線](枠線/index.md)  
 
+[DOCTYPE宣言](doctype宣言.md)  
 [\<head>](head/index.md)  
 [\<a>](a/index.md)  
 
