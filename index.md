@@ -10,6 +10,7 @@
 [枠線](枠線/index.md)  
 
 [DOCTYPE宣言](doctype宣言.md)  
+[\<html>](html/index.md)  
 [\<head>](head/index.md)  
 [\<a>](a/index.md)  
 
