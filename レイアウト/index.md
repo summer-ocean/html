@@ -1,7 +1,7 @@
 ![レイアウトの画像](img/layout.png)  
 
 フレックス  
-[フロート](フロート/index.md)  
+[回り込み](回り込み/index.md)  
 
 [\<div>](div.md)  
 
