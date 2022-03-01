@@ -13,3 +13,10 @@ CSS > CSSセレクタ > 疑似要素
 	content: "テキスト";
 }
 ```
+
+## 非表示
+```css
+タグ::after {
+	content: none;
+}
+```
