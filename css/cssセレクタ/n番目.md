@@ -4,18 +4,3 @@ CSS > CSSセレクタ
 ```css
 要素:nth-of-type(n)
 ```
-
-## 式
-```css
-要素:nth-of-type(2n)
-```
-
-## 奇数
-```css
-要素:nth-of-type(odd)
-```
-
-## 偶数
-```css
-要素:nth-of-type(even)
-```
