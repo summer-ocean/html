@@ -7,7 +7,7 @@ CSS > CSSセレクタ
 
 ## 式
 ```css
-要素:nth-of-type(n)
+要素:nth-of-type(2n)
 ```
 
 ## 奇数
