@@ -1,5 +1,6 @@
 アイコン
 # PC
+画像はルートディレクトリに保存する  
 ```html
 <head>
   <link rel="shortcut icon" href="/favicon.ico">
